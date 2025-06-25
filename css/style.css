@@ -411,6 +411,13 @@ ol {
 	display: inline-block;
 }
 
+.header__logo img {
+	width: 120px;   /* Set your desired width */
+	height: auto;   /* Maintain aspect ratio */
+	/* or set height as well if needed */
+	/* height: 60px; */
+}
+
 .header__menu {
 	text-align: center;
 	padding: 26px 0 25px;
